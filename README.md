@@ -20,8 +20,7 @@ pip install instabot
 
 <br>
 <b><h2>Application Features</h2></b>
-<br>
-The gaming website  includes the following features:
+
 <br>
 The Instagram follower bot application includes the following features:
 
